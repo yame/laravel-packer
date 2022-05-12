@@ -1,5 +1,5 @@
 {
-  "name": "bitfumes/laravel-packer",
+  "name": "yame/laravel-packer",
   "description": "Awesome Command Line Tool for speeding up your package creation.",
   "keywords": [
     "package maker",
@@ -11,13 +11,13 @@
   "type": "project",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/sarthaksavvy/laravel-packer/issues",
-    "source": "https://github.com/sarthaksavvy/laravel-packer"
+    "issues": "https://github.com/yame/laravel-packer/issues",
+    "source": "https://github.com/yame/laravel-packer"
   },
   "authors": [
     {
-      "name": "Sarthak Shrivastava",
-      "email": "sarthak@bitfumes.com"
+      "name": "yame",
+      "email": "yame912@qq.com"
     }
   ],
   "require": {

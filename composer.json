@@ -1,5 +1,5 @@
 {
-  "name": "yame/laravel-packer",
+  "name": "hiyame/laravel-packer",
   "description": "Awesome Command Line Tool for speeding up your package creation.",
   "keywords": [
     "package maker",
